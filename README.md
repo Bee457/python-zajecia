@@ -9,6 +9,7 @@ Katalogi są podzielone na poszczególne zestawy zadań realizowane w trakcie se
 - **Zestaw_2/** - Operacje na łańcuchach znaków i listach (zadania 2.10 - 2.19) z wykorzystaniem pętli oraz podstawowych metod i funkcji wbudowanych.
 - **Zestaw_3/** - Instrukcje warunkowe, pętle (for, while) oraz operacje na strukturach danych: list, tuple, set i dict (zadania 3.1 - 3.10).
 - **Zestaw_4/** - Definiowanie funkcji, zasięg zmiennych, iteracja oraz rekurencja na listach i sekwencjach zagnieżdżonych (zadania 4.1 - 4.7).
+- **Zestaw_5/** - Importowanie i tworzenie własnych modułów, pakiety, wybrane moduły biblioteki standardowej (m.in. math, os, sys) oraz testy jednostkowe z wykorzystaniem modułu unittest (zadanie 5.2).
 
 ## Środowisko pracy
 - **Język:** Python 3.14.4
