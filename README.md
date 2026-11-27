@@ -11,6 +11,7 @@ Katalogi są podzielone na poszczególne zestawy zadań realizowane w trakcie se
 - **Zestaw_4/** - Definiowanie funkcji, zasięg zmiennych, iteracja oraz rekurencja na listach i sekwencjach zagnieżdżonych (zadania 4.1 - 4.7).
 - **Zestaw_5/** - Importowanie i tworzenie własnych modułów, pakiety, wybrane moduły biblioteki standardowej (m.in. math, os, sys) oraz testy jednostkowe z wykorzystaniem modułu unittest (zadanie 5.2).
 - **Zestaw_6/** - Programowanie zorientowane obiektowo, tworzenie klas, metody, metody specjalne (przeciążanie operatorów) oraz dziedziczenie (zadania 6.2 i 6.3).
+- **Zestaw_7/** - Obsługa wyjątków (podstawy, wyjątki jako klasy), iteratory, funkcja iter(), moduł itertools oraz menedżery kontekstu (zadania 7.3 i 7.6).
 
 ## Środowisko pracy
 - **Język:** Python 3.14.4
